@@ -38,9 +38,9 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008118391</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A woman seeks revenge against her mother for the murder of her father.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/sophocles"&gt;Sophocles’&lt;/a&gt; &lt;i&gt;Electra&lt;/i&gt; is a tragedy that follows Electra, the daughter of Agamemnon and Clytemnestra, as she seeks revenge for her father’s murder at the hands of her mother and her lover Aegisthus. Mourning her father’s death, Electra yearns for justice and the return of her brother, Orestes, who has been exiled. When Orestes returns, the siblings plot and carry out the murders of Clytemnestra and Aegisthus, fulfilling their desire for vengeance. The play explores Electra’s conflicting feelings of triumph and horror at the matricide.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/sophocleswitheng02soph</dc:source>
