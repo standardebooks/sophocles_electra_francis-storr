@@ -42,7 +42,7 @@
 		<meta property="schema:genre">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:abstract>A woman seeks revenge against her mother for the murder of her father.</dc:abstract>
+		<meta property="schema:abstract">A woman seeks revenge against her mother for the murder of her father.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/sophocles"&gt;Sophocles’&lt;/a&gt; &lt;i&gt;Electra&lt;/i&gt; is a tragedy that follows Electra, the daughter of Agamemnon and Clytemnestra, as she seeks revenge for her father’s murder at the hands of her mother and her mother’s lover Aegisthus. Mourning her father’s death, Electra yearns for justice and the return of her brother, Orestes, who has been exiled. When Orestes returns, the siblings plot and carry out the murders of Clytemnestra and Aegisthus, fulfilling their desire for vengeance. The play explores Electra’s conflicting feelings of triumph and horror at the matricide.&lt;/p&gt;
 		</dc:description>
